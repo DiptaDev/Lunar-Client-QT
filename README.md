@@ -1,2 +1,1 @@
-# Lunar-Client-QT
-A deleted Repository
+Just run The exe file
